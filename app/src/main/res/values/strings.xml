@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="wbt_registration_text">wbt | Registration</string>
+    <string name="hint_first_name_text">First name</string>
+    <string name="hint_last_name_text">Last name</string>
+    <string name="hint_email_text">Email</string>
+    <string name="hint_password_text">Password</string>
+    <string name="hint_phone_number_text">Phone number</string>
+    <string name="button_preview">Preview</string>
+    <string name="preview_data_heading_text">Preview Data</string>
+    <string name="button_share_sms">Share via SMS</string>
+    <string name="button_share_via_whatsapp_text">Share via Whatsapp</string>
+</resources>
